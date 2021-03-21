@@ -41,3 +41,21 @@ For a given http://gitlab.com/jtrowe/demo-webapp/[project]:
 *   http://gitlab.com/jtrowe.atom[user]
 
 
+== ITunes
+
+*   https://superuser.com/questions/78415/get-rss-feed-from-itunes-podcast-links
+
+
+== Reddit
+
+https://old.reddit.com/r/perl/.rss?format=xml
+
+
+== YouTube
+
+Per https://atthis.link/blog/2021/rss.html:
+
+*   https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID
+*   https://www.youtube.com/feeds/videos.xml?user=ShadowcatSystems
+
+
