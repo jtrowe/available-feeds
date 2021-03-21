@@ -1,8 +1,10 @@
 = Feeds
 
+
 == Blogspot
 
 https://$name.blogspot.com/feeds/posts/default
+
 
 == dev.to
 
@@ -13,4 +15,29 @@ main: https://dev.to/feed
 author: https://dev.to/feed/$username
 
 tag: https://dev.to/feed/$tag
+
+
+== GitHub RSS
+
+.Links:
+*   https://github.community/t/rss-feeds-for-github-projects/292
+*   https://www.ronaldsvilcins.com/2020/03/26/rss-feeds-for-your-github-releases-tags-and-activity/
+
+For a given https://github.com/mapstruct/mapstruct[project],
+there are the following `atom` feeds:
+
+*   https://github.com/mapstruct/mapstruct/commits/master.atom[commits on master]
+*   https://github.com/mapstruct/mapstruct/releases.atom[releases]
+*   https://github.com/mapstruct/mapstruct/tags.atom[tags]
+*   https://github.com/mapstruct.atom[user]
+
+
+== GitLab RSS
+
+For a given http://gitlab.com/jtrowe/demo-webapp/[project]:
+
+*   http://gitlab.com/jtrowe/demo-webapp/commits/master.atom[commits on master]
+*   http://gitlab.com/jtrowe/demo-webapp.atom[activity on project]
+*   http://gitlab.com/jtrowe.atom[user]
+
 
