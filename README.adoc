@@ -2,7 +2,7 @@
 
 == Blogspot
 
-https://<name>.blogspot.com/feeds/posts/default
+https://$name.blogspot.com/feeds/posts/default
 
 == dev.to
 
@@ -10,7 +10,7 @@ https://<name>.blogspot.com/feeds/posts/default
 
 main: https://dev.to/feed
 
-author: https://dev.to/feed/<username>
+author: https://dev.to/feed/$username
 
-tag: https://dev.to/feed/<tag>
+tag: https://dev.to/feed/$tag
 
