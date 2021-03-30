@@ -45,6 +45,9 @@ For a given http://gitlab.com/jtrowe/demo-webapp/[project]:
 
 *   https://superuser.com/questions/78415/get-rss-feed-from-itunes-podcast-links
 
+== pixelfed.social
+
+https://pixelfed.social/users/$username.atom
 
 == Reddit
 
