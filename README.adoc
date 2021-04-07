@@ -54,6 +54,12 @@ https://pixelfed.social/users/$username.atom
 https://old.reddit.com/r/perl/.rss?format=xml
 
 
+== Wordpress
+
+*   https://wordpress.org/support/article/wordpress-feeds/
+
+https://example.com/?feed=atom
+
 == YouTube
 
 Per https://atthis.link/blog/2021/rss.html:
